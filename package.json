@@ -1,0 +1,22 @@
+{
+  "name": "historycards-server",
+  "version": "1.0.0",
+  "description": "backend api for history.cards website",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "firebase-functions": "^3.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "firebase",
+    "admin",
+    "firestore",
+    "express.js"
+  ],
+  "author": "Hisham Abi Farah",
+  "license": "ISC"
+}
